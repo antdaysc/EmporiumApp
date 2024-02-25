@@ -6,14 +6,7 @@ require("firebase/database");
 require("firebase/firestore");
 
 const Config = {
-  apiKey: "AIzaSyDFQNgt47KV_LMnKJGe2UA0qYQrJCOr4ro",
-  authDomain: "emporium-c8fc5.firebaseapp.com",
-  projectId: "emporium-c8fc5",
-  storageBucket: "emporium-c8fc5.appspot.com",
-  databaseURL:'https://emporium-c8fc5-default-rtdb.firebaseio.com/',
-  messagingSenderId: "105787822368",
-  appId: "1:105787822368:web:bbce988a6d9a656e570745",
-  measurementId: "G-4K7NGZB4TP"
+  // Al desplegar una instancia/proeycto en firebase  poner aquí las credenciales
 };
 
 // Initialize Firebase
